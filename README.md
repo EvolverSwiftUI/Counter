@@ -5,9 +5,9 @@ Tech Stack
 2. CSS
 3. JS
 <br>
-  1. Primitive types: string, boolean, number and undefined.
-  2. parseInt() and parseFloat()
-  3. conditional statements
+  1. Primitive types: string, boolean, number and undefined.<br>
+  2. parseInt() and parseFloat()<br>
+  3. conditional statements<br>
 
 <br>
 
